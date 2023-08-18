@@ -5,3 +5,5 @@ Uusi rivi githubissa - develop branchiin
 tekoäly1
 tekoäly2
 tekoäly3
+
+  Käytetään toteuteuttua nettiyhteyttä.
